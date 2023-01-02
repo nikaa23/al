@@ -2,7 +2,7 @@
 AI project
 Final project for the Building AI course
 
-##Summary
+## Summary
 Idea is to make a AI based program that can recommend a comic based on given information such as personal interests or connections with other comics.
 
 ## Background
