@@ -1,20 +1,20 @@
-# COMIC ORGANISATION
+## COMIC ORGANISATION
 AI project
 Final project for the Building AI course
 
-# Summary
+## Summary
 Idea is to make a AI based program that can recommend a comic based on given information such as personal interests or connections with other comics.
 
-# Background
+## Background
 This is problem that people who dont know which comic to read next have. They often look for recomendations from other people, but why not make it possible for them to find something interesting by them selves.
 
-# How is it used?
+## How is it used?
 Inserting words, key words< and with use of bag of words it should be easy to find the right match.
 
-# Data sources and AI methods
-# Challenges
+## Data sources and AI methods
+## Challenges
 Challenge is that there could be some mistakes because with use of this metod some words can be interpreted wrong.
 
-# What next?
+## What next?
 I think many people would find this projest usefull so they would become interested in using it. So thats why I think this project would grow. With this people will read more comics and would be inspired to start reading different genres of comics and find those that are similar to ones they allready read.
-# Acknowledgments
+## Acknowledgments
